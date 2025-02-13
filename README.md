@@ -41,7 +41,7 @@ print("dlt version:", dlt.__version__)
 ```
 
 Provide the **version** you see in the output.
-# Answer 1: dlt version: 1.6.1
+# Answer: dlt version: 1.6.1
 
 ## **Question 2: Define & Run the Pipeline (NYC Taxi API)**
 
@@ -118,7 +118,7 @@ How many tables were created?
 * 4
 * 6
 * 8
-# Answer 2: 4 tables
+# Answer: 4 tables
   * _dlt_loads
   * _dlt_pipeline_state
   * _dlt_version
@@ -140,7 +140,7 @@ What is the total number of records extracted?
 * 7500
 * 10000
 
-# Answer 3: 10000
+# Answer: 10000
 
 ## **Question 4: Trip Duration Analysis**
 
@@ -168,7 +168,7 @@ What is the average trip duration?
 * 32.3049
 * 42.3049
 
-# Answer 4: 12.3049
+# Answer: 12.3049
 
 
 
